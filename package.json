@@ -1,0 +1,20 @@
+{
+  "name": "ShopApis",
+  "version": "1.0.0",
+  "description": "this contain apis of shop kart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikanthsree50/ShopApis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikanthsree50/ShopApis/issues"
+  },
+  "homepage": "https://github.com/srikanthsree50/ShopApis#readme"
+}
